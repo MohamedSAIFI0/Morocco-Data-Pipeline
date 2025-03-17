@@ -1,0 +1,6 @@
+boto3==1.28.38
+mysqlclient==2.1.1
+pymysql==1.1.0
+pandas==2.0.3
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.6
